@@ -1,0 +1,18 @@
+﻿body {
+    background-color:lightblue;
+    margin:auto;
+    text-align:center;
+}
+#border {
+border: 2px black solid;
+background-color:lightgray;
+width:235px;
+margin:auto;
+padding:10px
+
+}
+#CalcSale {
+margin-top:5px;
+margin-bottom:5px;
+
+}
